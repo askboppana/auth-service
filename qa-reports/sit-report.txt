@@ -1,0 +1,2 @@
+SIT: auth-service QA
+Passed: 28 Failed: 0
